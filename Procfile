@@ -1,1 +1,1 @@
-web: gunicorn dashserver/gettingstarted.wsgi
+web: gunicorn dashserver/dashserver.wsgi
