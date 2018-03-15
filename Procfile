@@ -1,1 +1,1 @@
-web: gunicorn dashserver/dashserver.wsgi
+web: gunicorn dashserver.wsgi
